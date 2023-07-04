@@ -1,0 +1,2 @@
+# fude_test_niigata
+G空間情報センターのGeoJSONをベクトルタイルにします
